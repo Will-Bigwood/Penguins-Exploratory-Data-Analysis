@@ -1,12 +1,5 @@
 # Penguins Exploratory Data Analysis
 A breif exploratory analysis of the 'penguins_size' dataset using Python to process and visualise the data
-### Table of Contents
-
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Findings](#findings)
-
 ### Introduction
 The dataset is related to Penguin research and has information on Penguin's species, habitat, gender, and size. In this report I have conducted an exploratory data analysis on the dataset and provided a description of my findings accompanied by visualisations in a report.
 ### Getting Started
